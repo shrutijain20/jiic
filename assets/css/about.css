@@ -18,6 +18,15 @@
     padding: 22% 10%;
 }
 */
+
+@media(max-width: 1300px) {
+    #im1{
+        width:90%;
+    }
+    #abd{
+        width: 30%;
+    }
+}
 #team .item{
     float: none;
     width: 50%;
